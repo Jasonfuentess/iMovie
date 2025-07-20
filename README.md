@@ -47,7 +47,7 @@ The page is ideal as a **UI/UX design showcase** or as the front-end template fo
 ## 🌐 Live Demo
 
 Check out the live version:  
-👉 (jasonfuentess.github.io/iMovie)
+👉 ([jasonfuentess.github.io/iMovie](https://jasonfuentess.github.io/iMovie/))
 
 ---
 
