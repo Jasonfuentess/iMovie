@@ -39,7 +39,7 @@ The page is ideal as a **UI/UX design showcase** or as the front-end template fo
 
 - **HTML5**
 - **CSS3** (Flexbox/Grid, modern styles)
-- **JavaScript** or React (optional enhancement)
+- **JavaScript** 
 - **Font Awesome** (for icons)
 
 ---
@@ -47,7 +47,7 @@ The page is ideal as a **UI/UX design showcase** or as the front-end template fo
 ## 🌐 Live Demo
 
 Check out the live version:  
-👉 [https://yourusername.github.io/iMovies](https://yourusername.github.io/iMovies)
+👉 (jasonfuentess.github.io/iMovie)
 
 ---
 
