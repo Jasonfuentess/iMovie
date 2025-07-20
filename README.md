@@ -51,9 +51,4 @@ Check out the live version:
 
 ---
 
-## 📦 Getting Started (Local Setup)
 
-```bash
-git clone https://github.com/yourusername/iMovies.git
-cd iMovies
-# Open index.html in your browser
